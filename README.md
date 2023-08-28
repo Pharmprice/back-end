@@ -23,8 +23,8 @@ Pharmprice is a web application that allows users to search for pharmacies and t
 
 ## Technologies Used
 
-- Spring Framework [Specify the version used]
-- Java [Specify the version used]
+- Spring Framework
+- Java
 
 ## Installation
 
